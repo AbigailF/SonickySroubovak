@@ -1,0 +1,6 @@
+menicko.py...pomocí tohoto programu ovládáme vstupy a výstupy na zvukové kartě
+vygenerovani_vlny.py...po zadání přibližné velikosti předmětu vygeneruje vhodné vlny pro naše měření
+vyslani-zvuku.py...vysílá zvuk po dobu 1 sekundy
+zapnuti_mikrofonu.py...zapne mikrofon na 1 sekundu
+zjisteni_rozsahu.py...obsahuje funkci s výpočtem velikosti vlny podle velikosti předmětu, která je použita v programu "vygenerovani_vlny"
+zjisteni_rozsahu_unitest.py...spustí zjisteni_rozsahu.py
